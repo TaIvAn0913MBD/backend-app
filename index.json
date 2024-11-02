@@ -1,1 +1,7 @@
-[{"age":"1","name":"Tuugii","school":"Oros_3","id":"3"},{"id":2,"name":"sigma"},{"id":3,"name":"gigachad"},{"id":4,"name":"skibidi"},{"id":5,"name":"skibidi"}]
+[
+  { "age": "1", "name": "Tuugii", "school": "Oros_3", "id": "3" },
+  { "id": 2, "name": "sigma" },
+  { "id": 3, "name": "gigachad" },
+  { "id": 4, "name": "skibidi" },
+  { "id": 5, "name": "skibidi" }
+]
